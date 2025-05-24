@@ -17,14 +17,6 @@ Este projeto representa o culminar dos conhecimentos adquiridos durante a imers�
 * Bibliotecas de IA relevantes (especificar se houver, ex: `langchain`, `crewai`, etc.)
 
 
-![Captura de tela 2025-05-24 024455](https://github.com/user-attachments/assets/054798bf-2b17-43ef-aef7-29374e688e07)
-
-
-
-![Captura de tela 2025-05-24 024505](https://github.com/user-attachments/assets/419245c1-68f5-40a3-8fef-cbef98cfb42f)
-
-
-
 **Objetivo:**
 
 O principal objetivo deste projeto foi consolidar o aprendizado sobre a criação de sistemas inteligentes que podem atuar de forma autônoma, utilizando o poder da IA generativa e a flexibilidade da API do Google Gemini.
